@@ -38,6 +38,13 @@ The JavaScript file contains the core logic of the game:
 -resetGame: Resets the game to the initial state.
 -Initialization: Initializes the game board and sets up the reset button event listener.
 
+# Here's Demo
+
+
+https://github.com/UdayVaidya/Tic-Tac-Toe/assets/105291488/171e3612-1842-403e-b9aa-0f6d32db812b
+
+
+
 # Future Enhancements
 -Add sound effects for moves and winning.
 -Enhance the UI with animations.
