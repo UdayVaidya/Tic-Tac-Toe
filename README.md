@@ -54,6 +54,9 @@ https://github.com/UdayVaidya/Tic-Tac-Toe/assets/105291488/171e3612-1842-403e-b9
 # Contributing
 Feel free to fork the repository and submit pull requests. Contributions are welcome!
 
+# Live hoisted Website
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2c602577-c645-4fe9-8a17-bc774705b0d5/deploy-status)](https://app.netlify.com/sites/brilliant-pie-29900c/deploys)
+
 # License
 This project is licensed under the MIT License.
 
